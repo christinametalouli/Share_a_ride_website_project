@@ -1,0 +1,15 @@
+family { color: #000000; }
+parent {
+font-family: Arial Black;
+/*display:block;*/
+color: #ff0000;
+border: solid 5px /*green*/;
+width: 300px;
+}
+child {
+font-family: verdana, helvetica;
+color: #cc0000;
+border: solid 5px;
+border-color: #cc0000;
+/*display:block;*/
+}
